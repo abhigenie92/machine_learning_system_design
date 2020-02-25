@@ -44,6 +44,9 @@ https://lnkd.in/dW3EU2p, https://www.youtube.com/watch?v=kY-BCNHd_dM
 Spotify Recommendations:
 https://bit.ly/38RpWpM
 
+Ranking:
+https://www.youtube.com/watch?v=pmxBDuju3GU
+https://www.youtube.com/watch?v=ZeeGskd1bjY
 
 References/Credits:
 https://www.linkedin.com/posts/ricomeinl_machinelearning-systemdesign-artificialintelligence-activity-6637794482542661633-3pWV
