@@ -26,10 +26,6 @@ https://ubr.to/3a0dynv
 
 Airbnb:
 https://bit.ly/2VhDuaf
-
-
-References/Credits:
-https://www.linkedin.com/posts/ricomeinl_machinelearning-systemdesign-artificialintelligence-activity-6637794482542661633-3pWV
 https://bit.ly/39Z63gx
 https://bit.ly/2SSgZqC
 https://bit.ly/2v0UQxr
@@ -47,3 +43,6 @@ https://lnkd.in/dW3EU2p
 
 Spotify Recommendations:
 https://bit.ly/38RpWpM
+
+References/Credits:
+https://www.linkedin.com/posts/ricomeinl_machinelearning-systemdesign-artificialintelligence-activity-6637794482542661633-3pWV
