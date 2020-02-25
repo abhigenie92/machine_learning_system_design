@@ -48,5 +48,12 @@ Ranking:
 https://www.youtube.com/watch?v=pmxBDuju3GU
 https://www.youtube.com/watch?v=ZeeGskd1bjY
 
+Unsupervised:
+https://learning.oreilly.com/videos/oreilly-artificial-intelligence/9781492050667/9781492050667-video326790?autoplay=false
+
+Systems:
+https://arxiv.org/pdf/1905.10677.pdf
+https://www.coursera.org/learn/gcp-production-ml-systems/home/week/1
+
 References/Credits:
 https://www.linkedin.com/posts/ricomeinl_machinelearning-systemdesign-artificialintelligence-activity-6637794482542661633-3pWV
