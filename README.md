@@ -39,10 +39,11 @@ Google:
 https://bit.ly/2SYi9Bb
 
 Netflix Recommendations:
-https://lnkd.in/dW3EU2p
+https://lnkd.in/dW3EU2p, https://www.youtube.com/watch?v=kY-BCNHd_dM
 
 Spotify Recommendations:
 https://bit.ly/38RpWpM
+
 
 References/Credits:
 https://www.linkedin.com/posts/ricomeinl_machinelearning-systemdesign-artificialintelligence-activity-6637794482542661633-3pWV
